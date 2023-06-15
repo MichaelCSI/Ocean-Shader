@@ -13,10 +13,11 @@ Thanks to Bruno Simon/Three.js journey for teaching some of the shader concepts 
 <br />
 
 ## Model Credits
-Name:    3D Brand Logos Free low-poly 3D model
-Author:  https://www.cgtrader.com/astrorocket
-Source:    https://www.cgtrader.com/free-3d-models/architectural/decoration/3d-brand-logos
----
-Name:	Neon Sun & Moon
-Author:	https://sketchfab.com/noelnoir
-Source:	https://sketchfab.com/3d-models/neon-sun-moon-a0d6ad76fa4f494f82a8e92b8c1493a4
+####
+Name: 3D Brand Logos Free low-poly 3D model <br/>
+Author: https://www.cgtrader.com/astrorocket <br/>
+Source: https://www.cgtrader.com/free-3d-models/architectural/decoration/3d-brand-logos <br/>
+
+Name:	Neon Sun & Moon <br/>
+Author:	https://sketchfab.com/noelnoir <br/>
+Source:	https://sketchfab.com/3d-models/neon-sun-moon-a0d6ad76fa4f494f82a8e92b8c1493a4 <br/>
