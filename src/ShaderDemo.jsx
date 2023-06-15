@@ -59,7 +59,10 @@ export default function ShaderDemo(){
 }
 
 
-
+// MODEL CREDITS
+// Name: 3D Brand Logos Free low-poly 3D model
+// Author: AtroRocket
+// Link: https://www.cgtrader.com/free-3d-models/architectural/decoration/3d-brand-logos
 function Contact(props)
 {
     const { viewport } = useThree()
